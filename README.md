@@ -3,7 +3,7 @@
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/9db419dadaa7753c1e9f19ff7789a3362167ba0e/career%20development.png)
 
 ###### Situation
-Im currently a third year student, studying at Cput, Application Development. basically we need to find a place to do our Work Integrated Learning. This would give me a real work expierence.
+I am currently a third year student, at Cput, studing Application Development. As third year students we need to find a company to do our Work Integrated Learning. This would give me a real work expierence.
 
 #### Task
 I want to see if I can apply my knowledge and skills inside a workplace.
@@ -18,23 +18,32 @@ I got accepted into a company. I am only starting on the first of July. So I am 
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/5a6215b57063affd5fe647b54b43e06bd1ff41b2/skills%20and%20intrest.jpg)
 
 ###### Situation
-Skills
+My team is currently not on time with their work. They are leaving everything for the last minutes.
+
+#### Task
+I improved my team members to be more efficient with their work and time.
+
+#### Action
+I created weekly meeting and assigned task to ensure everybody is on date with their work.
+
+#### Result
+Because of the smalls actions we could sumbit our work 3 days before the time.
 
 ## Personality Assessment
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/083bd016a1539dfa5c3eb0bb20cd40140995ffe3/personality.jpg)
 
 #### Situation
-I am a very shy person. I struggle to communicate with people because I am a very introvert person. So with my course that I am studing there is alot of presentations involve. Also I am going through alot of interviews lately with the companies I applied at. So doing presentations and interviews is quite difficult for me. I am currentrly trying to improve my communications skills.
+I am a very shy person. I struggle to communicate with people because I am a very introvert person. So with my course that I am studing there is alot of presentations involved. Also I am going through alot of interviews lately with the companies I applied at. So doing presentations and interviews is quite difficult for me. I am currentrly struggling to communicate effectively.
 
 #### Task
-I have realized that I need to be better at these skills. So I decided to set myself small goals that can influence me in the future.
+I have realized that I need to be better at these skills. So I decided to set myself small goals that can influence me positvely in the future.
 
 #### Action
-I  implement small tasks for myself to improve my communication skills and my interviews. Firstly , I decided all the group projects I am going to be the speaker. Speaking infront of my team members will boost my confidence. With my interviewing I created mock interviews for myself just so I could get comfortable with doing my interviews.
+I  implemented small tasks for myself to improve my communication skills and my interviews. Firstly , I decided all the group projects I am going to be the speaker. Speaking infront of my team members will boost my confidence. With my interviewing I created mock interviews for myself just so I could get comfortable with doing my interviews.
 
 
 #### Result
-
+I noticeed a improvement in my communication skills and my interviewing. I have confidence now to speak in front of a entire classroom.  
 
 ## Create a CV
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/d158989c172622200a8fe2ac4fb0c15babe04536/create%20a%20cv.jpg)
@@ -51,7 +60,16 @@ I uploaded my CV to the respective companies.
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/f42ded9e56f9b221f53df04a092f4846b3a18c49/cv-sumbission.png)
 
 #### Situation
+I sent my CV to companies that aligned with my career interests.
 
+#### Task
+I had to upload my Cv before a deadline.
+
+#### Action
+
+
+#### Result
+I recieved feedback from companies which accepted and rejected me. The companies intrested scheduled interviews with me. 
 
 
 
