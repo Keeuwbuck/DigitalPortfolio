@@ -12,7 +12,7 @@ I want to see if I can apply my knowledge and skills inside a workplace.
 I have started sending my CV to companies so that I can apply my knowledge and skills I have learned inside a workplace.
 
 ###### Result
-I got accepted into a company. I am only starting on the firts of July. So I am currently just waiting till that time so that I can implement my knowledge and skills.
+I got accepted into a company. I am only starting on the first of July. So I am currently just waiting till that time so that I can implement my knowledge and skills.
 
 ## SKILLS AND INTERESTS
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/5a6215b57063affd5fe647b54b43e06bd1ff41b2/skills%20and%20intrest.jpg)
@@ -43,6 +43,12 @@ I needed to create a CV to give the employer a sense of what I can do and what e
 
 ###### Task
 In the CV document I summarise all my education, skills and relevant work experience. This enabled  me to exchange my abilities to  potential employers.
+
+###### Action
+I uploaded my CV to the respective companies. 
+
+## CV Submission
+![Evidence](
 
 
 
