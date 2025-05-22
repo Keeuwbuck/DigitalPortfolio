@@ -30,13 +30,19 @@ I am a very shy person. I struggle to communicate with people because I am a ver
 I have realized that I need to be better at these skills. So I decided to set myself small goals that can influence me in the future.
 
 ###### Action
-I decided to implement small tasks for myself to improve my communication skills and my interviews. Firstly , I decided all the groups projects I am going to be the speaker. I am going to speak in front off all my team members to that I can build up my confidence. With my interviewing I created mock interviews for myself just so I could get comfortable with doing my interviews.
+I  implement small tasks for myself to improve my communication skills and my interviews. Firstly , I decided all the group projects I am going to be the speaker. Speaking infront of my team members will boost my confidence. With my interviewing I created mock interviews for myself just so I could get comfortable with doing my interviews.
 
 
 ###### Result
 
 
 ## Create a CV
+![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/d158989c172622200a8fe2ac4fb0c15babe04536/create%20a%20cv.jpg)
+###### Situation
+I needed to create a CV to give the employer a sense of what I can do and what experience I have. 
+
+###### Task
+In the CV document I summarise all my education, skills and relevant work experience. This enabled  me to exchange my abilities to  potential employers.
 
 
 
