@@ -15,4 +15,12 @@ I have started sending my CV to companies so that I can apply my knowledge and s
 I got accepted into a company. I am only starting on the firts of July. So I am currently just waiting till that time so that I can implement my knowledge and skills.
 
 ## SKILLS AND INTERESTS
+![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/5a6215b57063affd5fe647b54b43e06bd1ff41b2/skills%20and%20intrest.jpg)
+
+###### Situation
+Skills
+
+###### Personality Assessment
+
+
 
