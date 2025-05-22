@@ -20,7 +20,25 @@ I got accepted into a company. I am only starting on the firts of July. So I am 
 ###### Situation
 Skills
 
-###### Personality Assessment
+## Personality Assessment
+![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/083bd016a1539dfa5c3eb0bb20cd40140995ffe3/personality.jpg)
+
+###### Situation
+I am a very shy person. I struggle to communicate with people because I am a very introvert person. So with my course that I am studing there is alot of presentations involve. Also I am going through alot of interviews lately with the companies I applied at. So doing presentations and interviews is quite difficult for me. I am currentrly trying to improve my communications skills.
+
+###### Task
+I have realized that I need to be better at these skills. So I decided to set myself small goals that can influence me in the future.
+
+###### Action
+I decided to implement small tasks for myself to improve my communication skills and my interviews. Firstly , I decided all the groups projects I am going to be the speaker. I am going to speak in front off all my team members to that I can build up my confidence. With my interviewing I created mock interviews for myself just so I could get comfortable with doing my interviews.
+
+
+###### Result
+
+
+## Create a CV
+
+
 
 
 
