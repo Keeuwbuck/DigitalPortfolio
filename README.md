@@ -9,7 +9,7 @@ I am currently a third year student, at Cput, studing Application Development. A
 I want to see if I can apply my knowledge and skills inside a workplace.
 
 #### Action
-I have started sending my CV to companies so that I can apply my knowledge and skills I have learned inside a workplace.
+I started to send my CV to companies so that I can apply my knowledge and skills, I have learned ,inside a workplace.
 
 #### Result
 I got accepted into a company. I am only starting on the first of July. So I am currently just waiting till that time so that I can implement my knowledge and skills.
@@ -18,16 +18,16 @@ I got accepted into a company. I am only starting on the first of July. So I am 
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/5a6215b57063affd5fe647b54b43e06bd1ff41b2/skills%20and%20intrest.jpg)
 
 ###### Situation
-My team is currently not on time with their work. They are leaving everything for the last minutes.
+My team is currently not on time with their work. They are leaving everything for the last minutes. They dont have a good schedule when it comes to submission dates.
 
 #### Task
-I improved my team members to be more efficient with their work and time.
+I need my team members to be more efficient with their work and time. They need to put maximum effort into their assigntments.
 
 #### Action
-I created weekly meeting and assigned task to ensure everybody is on date with their work.
+I created weekly meetings and assigned tasks to ensure everybody is on date with their work.
 
 #### Result
-Because of the smalls actions we could sumbit our work 3 days before the time.
+Because of the small actions we could sumbit our work 3 days before the time. My team members was also more effecient with their times.
 
 ## Personality Assessment
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/083bd016a1539dfa5c3eb0bb20cd40140995ffe3/personality.jpg)
@@ -39,11 +39,11 @@ I am a very shy person. I struggle to communicate with people because I am a ver
 I have realized that I need to be better at these skills. So I decided to set myself small goals that can influence me positvely in the future.
 
 #### Action
-I  implemented small tasks for myself to improve my communication skills and my interviews. Firstly , I decided all the group projects I am going to be the speaker. Speaking infront of my team members will boost my confidence. With my interviewing I created mock interviews for myself just so I could get comfortable with doing my interviews.
+I  implemented small tasks for myself to improve my communication skills and my interviews. Firstly , I decided all the group projects I am going to be the speaker. Speaking infront of my team members will boost my confidence. With my interviewing, I created mock interviews for myself just so I could get comfortable with doing my interviews.
 
 
 #### Result
-I noticeed a improvement in my communication skills and my interviewing. I have confidence now to speak in front of a entire classroom.  
+I noticed a improvement in my communication skills and my interviewing. I have confidence now to speak in front of a entire classroom.  
 
 ## Create a CV
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/d158989c172622200a8fe2ac4fb0c15babe04536/create%20a%20cv.jpg)
@@ -56,20 +56,23 @@ In the CV document I summarise all my education, skills and relevant work experi
 #### Action
 I uploaded my CV to the respective companies. 
 
+#### Result
+Companies review my CV to see if I am suited to do my Work Integrated Learning at that respective company. 
+
 ## CV Submission
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/f42ded9e56f9b221f53df04a092f4846b3a18c49/cv-sumbission.png)
 
 #### Situation
-I sent my CV to companies that aligned with my career interests.
+I need to send my CV to companies that align with my career interests.
 
 #### Task
-I had to upload my Cv before a deadline.
+I had to upload my CV before a given date. Thios will ensure that companies will have enought time to look at it before I must start in July month.
 
 #### Action
-
+My CV was uploaded succesfully.
 
 #### Result
-I recieved feedback from companies which accepted and rejected me. The companies intrested scheduled interviews with me. 
+In a few days I recieved feedback from the companies. I got accepted to one of the companies. They organized a inteview with them and it went quite well. I can start in July month at that company.
 
 
 
