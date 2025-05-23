@@ -2,7 +2,7 @@
 ## Career Development
 ![Evidence](https://github.com/Keeuwbuck/DigitalPortfolio/blob/9db419dadaa7753c1e9f19ff7789a3362167ba0e/career%20development.png)
 
-###### Situation
+#### Situation
 I am currently a third year student, at Cput, studing Application Development. As third year students we need to find a company to do our Work Integrated Learning. This would give me a real work expierence.
 
 #### Task
